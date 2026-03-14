@@ -1,4 +1,4 @@
-SHELL := /bin/bas
+SHELL := /bin/bash
 .SHELLFLAGS = -ec
 # Use `make VERBOSE=1` to print commands.
 $(VERBOSE).SILENT:
